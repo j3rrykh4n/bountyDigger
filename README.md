@@ -1,4 +1,4 @@
-# goldDigger
+# bountyDigger
 
 ## requirement
 make sure you have installed golang and set up gopath properly
@@ -15,14 +15,14 @@ export PATH=$GOPATH/bin:$PATH
 Save and use `source ~/.bash_profile`, Now you good to use `GO LANG`.
 
 ```
-$ git clone https://github.com/j3rrykh4n/goldDigger
-$ chmod +x install.sh goldDiggrt.sh
+$ git clone https://github.com/j3rrykh4n/bountyDigger
+$ chmod +x install.sh bountyDigger.sh
 $ ./install.sh
 ```
 
 ## Usages
 ```
-$ ./goldDigger target.com
+$ ./bountyDigger target.com
 ```
 ##Thanks
 ```
